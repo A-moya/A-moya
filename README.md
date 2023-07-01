@@ -12,7 +12,7 @@
 - ⚡ Dato curioso **innovador**
 
 <h3 align="left">Conéctese conmigo:</h3>
-<img aling = "left" src = "https://es.wikipedia.org/wiki/WhatsApp#/media/Archivo:WhatsApp.svg" width="30" height="30" >
+
 <strong align ="center">
   3137179855
 </strong>
