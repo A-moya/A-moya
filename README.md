@@ -13,7 +13,7 @@
 
 <h3 align="left">Conéctese conmigo:</h3>
 <p align= "izquierda">
-<img align="center" src= "https://www.flaticon.es/icono-gratis/llamada-telefonica_901192?related_id=901141&origin=search"  height="30" width="40" />
+<img align="center" src= "https://www.nicepng.com/maxp/u2q8t4o0r5t4o0o0/"  height="30" width="40" />
 </p>
 
 <h3 align="left">Idiomas y herramientas:</h3>
