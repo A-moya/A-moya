@@ -13,7 +13,7 @@
 
 <h3 align="left">Conéctese conmigo:</h3>
 <p align= "izquierda">
-<a href="https://linkedin.com/en/https://www.linkedin.com/en/alexander-moya-miranda-20a632243" target="blank"><img align="center" src= "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin. com/in/alexander-moya-miranda-20a632243" height="30" width="40" /></a>
+<img align="center" src= "C:\Users\diane\Downloads\llamada-telefonica"  height="30" width="40" />
 </p>
 
 <h3 align="left">Idiomas y herramientas:</h3>
